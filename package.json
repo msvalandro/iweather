@@ -9,7 +9,7 @@
     "web": "expo start --web",
     "test": "jest src",
     "test:watch": "jest --watch",
-    "test:coverage": "jest --coverage"
+    "test:coverage": "jest src --coverage"
   },
   "dependencies": {
     "@expo-google-fonts/nunito": "^0.2.3",
